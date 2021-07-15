@@ -3,10 +3,17 @@
 1.MongoDB:
   create database: Task Manager
   create collections:List,Task,User
+  
+  
 2.API
   Basic:POST,PATCH,GET,DELETE
+  
+  
+  
 3.Frontend
   Angular + Bulma(css framework)
+  
+  
   
   
   *******
